@@ -4,8 +4,6 @@ By: Jerry
 
 About: Here are some notebooks I made to practice data visualization and python for the course BUSN 20400 - Investments at the University of Chicago. 
 
-Time spent: **👉🏿 X** hours
-
 ## Features
 
 The following functionality is completed:

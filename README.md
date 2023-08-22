@@ -24,7 +24,7 @@ The following **stretch** features are [planned:
 
 Here's a walkthrough of implemented  features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough - investments notebook.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  [LICEcap](https://www.cockos.com/licecap/)
 
